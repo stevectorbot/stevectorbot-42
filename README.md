@@ -1,0 +1,3 @@
+# stevectorbot-42
+
+[![CircleCI](https://circleci.com/gh/pantheon-systems/example-drops-8-composer.svg?style=svg)](https://circleci.com/gh/stevectorbot/stevectorbot-42) [![Pantheon stevectorbot-42](https://img.shields.io/badge/pantheon-stevectorbot_42-yellow.svg)](https://dashboard.pantheon.io/sites/ade0973e-d6b6-4f20-80fe-2228479129d6#dev/code) [![Dev Site stevectorbot-42](https://img.shields.io/badge/site-stevectorbot_42-blue.svg)](http://dev-stevectorbot-42.pantheonsite.io/)
